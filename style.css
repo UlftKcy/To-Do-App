@@ -97,7 +97,11 @@ h1 {
   cursor: pointer;
 }
 .delete-item:hover{
-  color: rgb(134, 132, 132,0.3);;
+  color: rgb(134, 132, 132,0.3);
+}
+.delete-task{
+  text-decoration: line-through;
+  color: rgb(134, 132, 132,0.3);
 }
 .task-list h4 {
   align-self: center;

@@ -1,4 +1,4 @@
-# Project-002 : To-Do App (JS-02)
+# Project-Name : To-Do App
 
 >JS Structure
 
